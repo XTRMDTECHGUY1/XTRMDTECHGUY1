@@ -4,7 +4,7 @@ Hi 👋 My name is XtrmDTechGuy
 UX Design, Web Developer, Hard and Software Engineer and much more.
 -------------------------------------------------------------------
 
-Founder of Xtrm Technologies, i do this because i love helping business showcase their full potential through software solutions, may that be a website or anything else. Also i just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years i have started to became very versed in UX design and communication which is a booster as a programmer for me.
+Founder of Xtrm Technologies, i do this because i love helping business showcase their full potential through software solutions, may that be a website or anything else. Also i just love the process of software development, whereby you can take something from an idea to a real product that many can use.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [XtrmDTechGuy](http://Xtrmtechnologies.tech)
