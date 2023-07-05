@@ -10,7 +10,7 @@ Founder of Xtrm Technologies, i do this because i love helping businesses showca
 *   🖥️  See my portfolio at [XtrmDTechGuy](http://Xtrmtechnologies.tech)
 *   ✉️  You can contact me at [emmanueljoshua1472@gmail.com](mailto:emmanueljoshua1472@gmail.com)
 *   🚀  I'm currently working on [Xtrm Technologies](http://Xtrmtechnologies.tech)
-*   🧠  I'm learning Advanced React Native
+
 <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/XTRMDTECHGUY1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/d_xtrm" target="_blank" rel="noreferrer">
