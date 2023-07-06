@@ -44,8 +44,9 @@ Socials
 
 <p align="left"> <a href="https://www.behance.com/XtrmDTechGuy." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/d_xtrm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@XtrmDTechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-certifications
-![cert 1](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/b807b58c-8654-4b91-a9d2-98802b45dcd9)
+<h1> certifications </h1>
+
+![ceta](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/4284ec99-35b8-45dc-a2e1-5456134f5227)
 
 
 ![cert 2](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/4b8dd6e1-00f9-44d2-aef8-a3beca56c68a)
