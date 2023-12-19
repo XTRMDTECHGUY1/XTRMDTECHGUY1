@@ -1,15 +1,17 @@
 Hi 👋 My name is XtrmDTechGuy
 =============================
 
-Product Designer, Web & Software Developer, Hard and Software Engineer.
+Product Designer, Web & Mobile app Developer, Hard and Software Engineer.
 -------------------------------------------------------------------
 
-Founder of Xtrm Technologies, i do this because i love helping businesses showcase their full potential through software solutions and also protect and secure their data. Also i just love the process of software development, whereby you can take something from an idea to a real product that many can use, in Xtrm Tech. we don't just do things, we do things differently.
+Design, code and solve problems in various fields of programming.
+UI/UX, Flutter, React Native, Laravel, Node.js, Data science, Web development, Mobile App Development, Cyber security and much more.
+
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [XtrmDTechGuy](http://Xtrmtechnologies.tech)
+*   🖥️  See my portfolio at (https://www.github.com/XTRMDTECHGUY1
 *   ✉️  You can contact me at [emmanueljoshua1472@gmail.com](mailto:emmanueljoshua1472@gmail.com)
-*   🚀  I'm currently working on [Xtrm Technologies](http://Xtrmtechnologies.tech)
+*   🚀  I'm the Founder and CEO of Xtrm Technologies
 
 <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/XTRMDTECHGUY1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -42,24 +44,7 @@ Skills
                     
 Socials
 
-<p align="left"> <a href="https://www.behance.net/emmanueljoshua10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/d_xtrm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@XtrmDTechguy." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-<h1> Certification </h1>
-
-![ceta](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/4284ec99-35b8-45dc-a2e1-5456134f5227)
-
-
-![cert 2](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/4b8dd6e1-00f9-44d2-aef8-a3beca56c68a)
-
-
-![cert 3](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/cbcfa866-80e0-44af-9d20-b92fffa92a70)
-
-
-![cert 4](https://github.com/XTRMDTECHGUY1/XTRMDTECHGUY1/assets/88555638/1a44a4bd-8815-436e-8169-ef112db64190)
-
-
-
-
+<p align="left"> <a href="https://www.behance.net/emmanueljoshua10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iam_xtrm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@XtrmDTechguy." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
 
