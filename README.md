@@ -1,7 +1,7 @@
 Hi 👋 My name is XtrmDTechGuy
 =============================
 
-Product Designer, Web & Mobile app Developer, Hard and Software Engineer.
+UI UX Designer, Web & Mobile app Developer, Hard and Software Engineer.
 -------------------------------------------------------------------
 
 Design, code and solve problems in various fields of programming.
