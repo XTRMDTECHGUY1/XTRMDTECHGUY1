@@ -1,11 +1,11 @@
 Hi 👋 My name is XtrmDTechGuy
 =============================
 
-UI UX Designer, Web & Mobile app Developer, Hard and Software Engineer.
+Software Developer.
 -------------------------------------------------------------------
 
 Design, code and solve problems in various fields of programming.
-UI/UX, Flutter, React Native, Laravel, Node.js, Data science, Web development, Mobile App Development, Cyber security and much more.
+UI/UX, React js, React Native, Laravel, Node.js,Web and Mobile App Development, and much more.
 
 
 *   🌍  I'm based in Nigeria
@@ -15,7 +15,7 @@ UI/UX, Flutter, React Native, Laravel, Node.js, Data science, Web development, M
 
 <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/XTRMDTECHGUY1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/d_xtrm" target="_blank" rel="noreferrer">
+<a href="https://www.twitter.com/iam_xtrm" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/d_xtrm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 Skills 
@@ -44,7 +44,7 @@ Skills
                     
 Socials
 
-<p align="left"> <a href="https://www.behance.net/emmanueljoshua10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iam_xtrm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@XtrmDTechguy." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.behance.net/emmanueljoshua10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xtrmdtechguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href=" https://www.linkedin.com/in/joshua-emmanuel-3709152b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iam_xtrm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@XtrmDTechguy." target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
 
