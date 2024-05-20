@@ -5,8 +5,7 @@ Software Developer.
 -------------------------------------------------------------------
 
 Design, code and solve problems in various fields of programming.
-UI/UX, React js, React Native, Laravel, Node.js,Web and Mobile App Development, and much more.
-
+UI/UX, React js, React Native, Laravel, Node.js.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at (https://www.github.com/XTRMDTECHGUY1
@@ -16,7 +15,7 @@ UI/UX, React js, React Native, Laravel, Node.js,Web and Mobile App Development, 
 <a href="https://www.github.com/XTRMDTECHGUY1" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/XTRMDTECHGUY1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/iam_xtrm" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/d_xtrm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<img src="https://img.shields.io/twitter/follow/iam_xtrm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 Skills 
 <p align="left">
