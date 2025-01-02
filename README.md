@@ -1,7 +1,7 @@
 Hi 👋 My name is Yemi
 =============================
 
-Software Developer.
+Mobile Developer.
 -------------------------------------------------------------------
 
 Design, code and solve problems in various fields of programming.
