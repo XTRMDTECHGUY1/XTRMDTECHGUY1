@@ -7,7 +7,6 @@ Mobile Developer.
 Design, code and solve problems in various fields of programming.
 UI/UX, React js, React Native, Laravel, Node.js.
 
-*   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at (https://www.github.com/XTRMDTECHGUY1
 *   ✉️  You can contact me at [emmanueljoshua1472@gmail.com](mailto:emmanueljoshua1472@gmail.com)
 *   🚀  I'm the Founder and CEO of Xtrm Technologies
